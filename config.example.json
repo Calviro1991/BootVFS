@@ -1,0 +1,7 @@
+{
+  "url": "https://visa.vfsglobal.com/ago/en/prt/application-detail",
+  "interval_seconds": 900,
+  "selector": "body",
+  "available_text": [],
+  "unavailable_text": []
+}
